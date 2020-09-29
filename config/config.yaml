@@ -1,0 +1,8 @@
+server:
+  port: ":8080"
+  readTimeout: 2000
+  writeTimeout: 2000
+
+
+
+
